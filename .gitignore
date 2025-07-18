@@ -1,0 +1,18 @@
+# Ignore IDE configs
+.vscode/
+*.iml
+
+# Ignore compiled classes
+*.class
+
+# Ignore JARs you don’t want to track
+!gson-2.10.1.jar  # keep this one
+
+# Build directories
+/bin/
+/target/
+/out/
+
+# Ignore logs and temp
+*.log
+*.tmp
