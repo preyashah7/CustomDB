@@ -47,3 +47,10 @@ Welcome to the Key-Value Store with LRU Cache
 2. GET key
 3. DELETE key
 4. EXIT
+
+
+
+---
+## 🙌 Credits
+
+Built with ❤️ by Preya Shah — AI, full-stack, and ML enthusiast.
